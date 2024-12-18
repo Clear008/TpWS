@@ -1,11 +1,14 @@
-🏦 Web Service SOAP Bancaire avec JAX-WS
-📋 Vue d'ensemble
-Service web SOAP développé en Java utilisant JAX-WS, offrant des fonctionnalités bancaires essentielles et une architecture client-serveur robuste.
-🎯 Fonctionnalités principales
+🏦 # Web Service SOAP Bancaire avec JAX-WS
 
-💱 Conversion EUR → MAD (Dirham Marocain)
-🏦 Consultation des comptes bancaires
-📊 Liste complète des comptes disponibles
+📋 # Vue d'ensemble
+
+Service web SOAP développé en Java utilisant JAX-WS, offrant des fonctionnalités bancaires essentielles et une architecture client-serveur robuste.
+
+🎯 # Fonctionnalités principales
+
+💱 * Conversion EUR → MAD (Dirham Marocain)
+🏦 * Consultation des comptes bancaires
+📊 * Liste complète des comptes disponibles
 
 🛠️ Technologies utilisées
 
